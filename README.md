@@ -22,7 +22,7 @@ export PATH="$HOME/.cargo/bin:$PATH"
 
 echo ':peach:'  # More Emojis: https://gist.github.com/rxaviers/7360908
 echo '---'
-echo "Toggle Dock | shell='$(which macos-resize-dock)'"
+echo "Resize Dock | shell='$(which macos-resize-dock)'"
 ```
 
 Put the Xbar script in `~/Library/Application\ Support/xbar/plugins` and don't
